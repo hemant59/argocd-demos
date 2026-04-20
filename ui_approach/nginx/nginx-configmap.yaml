@@ -27,6 +27,6 @@ data:
       <body>
         <h1>Hello from NGINX</h1>
         <p>This UI is served using a Kubernetes ConfigMap.</p>
-        <p><b>Environment:</b> DEV</p>
+        <p><b>Environment:</b> DEV and test</p>
       </body>
     </html>
